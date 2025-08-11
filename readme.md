@@ -2,9 +2,7 @@
 
 ## Description
 
-This is a project created to help a local shelter manage their donation transactions and inventory.
-
-The application was created using a MERN stack with MUI material.
+Project to manage local shelter
 
 ## Table of Contents
 
